@@ -1,6 +1,6 @@
-:
 
-📊 Netflix Stock Price Analysis (2002-2025)
+
+<h2>📊 Netflix Stock Price Analysis (2002-2025)</h2>
 This repository contains a Power BI dashboard and a detailed report analyzing Netflix Inc.'s stock price trends from 2002 to 2025.
 
 📌 Project Overview
@@ -42,5 +42,5 @@ Compare Netflix’s trends with competitors like Amazon & Disney
 Perform sentiment analysis on news & social media related to Netflix 📢
 
 
-<img width="960" alt="Screenshot 2023-11-08 164826" src="https://github.com/user-attachments/assets/a0c03617-3aab-4eb0-bb4c-5bd6c21418c3">
+<img width="960" alt="Screenshot 2023-11-08 164826" src="https://github.com/Nishuyeole12/Netflix-Stock-Analysis/blob/main/Screenshot%202025-03-24%20205901.png">
 
